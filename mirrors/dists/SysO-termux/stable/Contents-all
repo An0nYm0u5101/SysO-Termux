@@ -278,5 +278,6 @@ data/data/com.termux/files/usr/bin/rapidpayload                                 
 data/data/com.termux/files/usr/share/applications/rapidpayload.desktop           RapidPayload
 data/data/com.termux/files/usr/share/rapid_payload/icon.png                      RapidPayload
 data/data/com.termux/files/usr/share/rapid_payload/payload.py                    RapidPayload
+data/data/com.termux/files/usr/etc/sources.list.d/syso-termux.list               syso-termux-keyring
 data/data/com.termux/files/usr/etc/apt/sources.list.d/yisus.ports-stable.list    yisus-keyring
 data/data/com.termux/files/usr/etc/apt/sources.list.d/yisus.ports-testing.list   yisus-keyring
