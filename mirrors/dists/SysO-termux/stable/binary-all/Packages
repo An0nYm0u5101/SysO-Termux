@@ -1,0 +1,49 @@
+Package: fotosploit
+Version: 2.1
+Architecture: all
+Maintainer: @Yisus7u7
+Description: Simple and Good phishing tool
+Homepage: https://github.com/Cesar-Hack-Gray/FotoSploit
+Depends: python2,python,php,openssh
+Recommends: aapt
+Suggests: rapidpayload
+Filename: dists/SysO-termux/stable/binary-all/fotosploit_2.1_all.deb
+Size: 6188300
+MD5Sum: be7b1ac5bfe096ea8d0c8c26777a521b
+SHA1: e6121abd8b7070bc32f0014a326895a8c70fc65e
+SHA256: 5c720eb8fe02e2fc4615e34310cb7e286f50f4470bb8fde6e69fcbe8a556cbff
+SHA512: 911ed06075cdb1f68880d9abe3aae006762bf86ac31e79f65f7a0deba98d37b77547bb1bc92aebaffc54f21176df3ed4911933c3e0ef80f04868dcc0c312468a
+
+Package: RapidPayload
+Version: 2.0
+Architecture: all
+Maintainer: @yisus7u7v
+Description: Genere payloads de Metasploit sin complicaciones
+Depends: python,python-tkinter
+Recommends: aapt
+Suggests: sl
+Provides: vi
+Filename: dists/SysO-termux/stable/binary-all/rapidpayload_2.0_all.deb
+Size: 309216
+MD5Sum: e828e50d483b52cf6ae4732115a9b023
+SHA1: f340b9af16af244a372542db8c570c07cc06fd5c
+SHA256: b2d7eaccaea7e7526f9fde3dfdd21c36a54b7487f7e9b835ce0937f0a4116b55
+SHA512: 941f044ac164b41f1c5ccc70933bce9c213574a776ecbcf5317aa339c4ff1adc91280c364931f0ad6f5092b1ffbce21aee5f6c6071b4797b3891ec022140a18b
+
+Package: yisus-keyring
+Version: 2.0.1
+Architecture: all
+Maintainer: @yisus7u7
+Description: key files for yisus.ports
+Homepage: https://github.com/Yisus7u7/yisus.ports
+Depends: apt
+Recommends: x11-repo
+Suggests: xfce4
+Conflicts: yisus-keyring-2021
+Filename: dists/SysO-termux/stable/binary-all/yisus-keyring_2.0.1_all.deb
+Size: 852
+MD5Sum: 1e7f0f8a44e407b55dc45a27988393e5
+SHA1: 077e9213ca7a993fc233684212c028fed3592646
+SHA256: ea88502a44f07b627f7d19fab54ea2097cbecdc73c7557e77fbb5c10562d913b
+SHA512: c8daec01f05b5d4d89cdfd3719f71138161a9514f5f6212f656691933ec221fa9823c28bde55d7909ae7dc9845acc424c7553fc511ddbd86020753ffcb8f9e40
+
