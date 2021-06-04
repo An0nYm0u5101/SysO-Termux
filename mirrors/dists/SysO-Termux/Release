@@ -3,7 +3,7 @@ Version: 1
 Architectures: all
 Description: SysO-Termux repository
 Suite: SysO-Termux
-Date: Fri, 04 Jun 2021 01:29:59 UTC
+Date: Fri, 04 Jun 2021 01:51:28 UTC
 MD5Sum:
  97d7562dc716fe5237d4998895d7604c 1893 stable/binary-all/Packages
  fc7adba798797559165d41f5d615b563 1084 stable/binary-all/Packages.xz
