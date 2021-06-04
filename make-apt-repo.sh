@@ -1,1 +1,1 @@
-termux-apt-repo debs/ mirrors SysO-termux stable
+termux-apt-repo debs/ mirrors SysO-Termux stable
