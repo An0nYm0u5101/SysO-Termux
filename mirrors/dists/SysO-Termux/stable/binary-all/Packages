@@ -14,6 +14,23 @@ SHA1: e6121abd8b7070bc32f0014a326895a8c70fc65e
 SHA256: 5c720eb8fe02e2fc4615e34310cb7e286f50f4470bb8fde6e69fcbe8a556cbff
 SHA512: 911ed06075cdb1f68880d9abe3aae006762bf86ac31e79f65f7a0deba98d37b77547bb1bc92aebaffc54f21176df3ed4911933c3e0ef80f04868dcc0c312468a
 
+Package: phoneinfoga-legacy
+Version: 1.0.0
+Section: Information gathering
+Priority: optional
+Architecture: all
+Depends: python
+Conflicts: phoneinfoga
+Maintainer: Yisus7u7 <jesuspixel5@gmail.com>
+Homepage: https://github.com/sundowndev/phoneinfoga
+Description: Information gathering & OSINT framework for phone numbers
+Filename: dists/SysO-Termux/stable/binary-all/phoneinfoga-legacy_1.0.0_all.deb
+Size: 22184
+MD5Sum: 7c38610080788078fab1ced6d86b2e8e
+SHA1: 0f4289a1aefcf6ddb1b6972bb0629b691c70928e
+SHA256: fb3fe308d24ed43dbae237ec34db9203707abd4fe3fdb845bd865500ac6e59f1
+SHA512: 2236660646e71a4ff7054fe533471d375680e8b1cef68ded50600562672944d70921fa72d802c864c472404b37d3f67de8025d5a9978fe5f14cf5804da323f35
+
 Package: RapidPayload
 Version: 2.0
 Architecture: all
@@ -46,4 +63,21 @@ MD5Sum: 7243e77334557abadc76a01aa5ff6d0e
 SHA1: dd2a912c2747a9d6fecb2d4946f5866e6d0431e9
 SHA256: aee9fc42b45aaa6d414a0ebc65800014ef0cd18311c630fcb9d98425f539f338
 SHA512: e636a93aecf6bbf0c5386ceb8a0330e7d146c317d40e717e6401feb67cca9bd50a2e5ce24a48623cde25277ab9fa415c2aea4a51d1cf09d8e543bb2d0610a0ca
+
+Package: yisus-keyring
+Version: 2.0.1
+Architecture: all
+Maintainer: @yisus7u7
+Description: key files for yisus.ports
+Homepage: https://github.com/Yisus7u7/yisus.ports
+Depends: apt
+Recommends: x11-repo
+Suggests: xfce4
+Conflicts: yisus-keyring-2021
+Filename: dists/SysO-Termux/stable/binary-all/yisus-keyring_2.0.1_all.deb
+Size: 852
+MD5Sum: 1e7f0f8a44e407b55dc45a27988393e5
+SHA1: 077e9213ca7a993fc233684212c028fed3592646
+SHA256: ea88502a44f07b627f7d19fab54ea2097cbecdc73c7557e77fbb5c10562d913b
+SHA512: c8daec01f05b5d4d89cdfd3719f71138161a9514f5f6212f656691933ec221fa9823c28bde55d7909ae7dc9845acc424c7553fc511ddbd86020753ffcb8f9e40
 
