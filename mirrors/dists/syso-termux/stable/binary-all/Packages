@@ -1,0 +1,49 @@
+Package: fotosploit
+Version: 2.1
+Architecture: all
+Maintainer: @Yisus7u7
+Description: Simple and Good phishing tool
+Homepage: https://github.com/Cesar-Hack-Gray/FotoSploit
+Depends: python2,python,php,openssh
+Recommends: aapt
+Suggests: rapidpayload
+Filename: dists/syso-termux/stable/binary-all/fotosploit_2.1_all.deb
+Size: 6188300
+MD5Sum: be7b1ac5bfe096ea8d0c8c26777a521b
+SHA1: e6121abd8b7070bc32f0014a326895a8c70fc65e
+SHA256: 5c720eb8fe02e2fc4615e34310cb7e286f50f4470bb8fde6e69fcbe8a556cbff
+SHA512: 911ed06075cdb1f68880d9abe3aae006762bf86ac31e79f65f7a0deba98d37b77547bb1bc92aebaffc54f21176df3ed4911933c3e0ef80f04868dcc0c312468a
+
+Package: RapidPayload
+Version: 2.0
+Architecture: all
+Maintainer: @yisus7u7v
+Description: Genere payloads de Metasploit sin complicaciones
+Depends: python,python-tkinter
+Recommends: aapt
+Suggests: sl
+Provides: vi
+Filename: dists/syso-termux/stable/binary-all/rapidpayload_2.0_all.deb
+Size: 309216
+MD5Sum: e828e50d483b52cf6ae4732115a9b023
+SHA1: f340b9af16af244a372542db8c570c07cc06fd5c
+SHA256: b2d7eaccaea7e7526f9fde3dfdd21c36a54b7487f7e9b835ce0937f0a4116b55
+SHA512: 941f044ac164b41f1c5ccc70933bce9c213574a776ecbcf5317aa339c4ff1adc91280c364931f0ad6f5092b1ffbce21aee5f6c6071b4797b3891ec022140a18b
+
+Package: syso-termux-keyring
+Version: 2.0.0
+Section: keys
+Priority: optional
+Architecture: all
+Depends: apt, dpkg
+Installed-Size: 1.1 KB
+Maintainer: @Yisus7u7 <jesuspixel5@gmail.com>
+Homepage: https://github.com/Yisus7u7/SysO-Termux 
+Description: keyfiles for SysO-Termux.ports
+Filename: dists/syso-termux/stable/binary-all/syso-termux-keyring-2.0.0-all.deb
+Size: 1084
+MD5Sum: b6bb799643b12b719ae9ff4ef203a846
+SHA1: 1da5b943e1848c732b14f47fcee7544c7df4ef4f
+SHA256: 7a16cd19c9d0b4d7e727233d7c2da62a5f169507eee2ea2b33d696052161517e
+SHA512: c2ca0b0b161976a3047f612e2268174822d41a747a3d34b8a4eac906968009bc0ab85c7707d7e9c83592f0ba513587ee799891e4a732fd3993c207638a15a014
+

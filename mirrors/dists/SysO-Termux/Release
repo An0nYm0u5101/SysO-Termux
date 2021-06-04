@@ -1,0 +1,26 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: SysO-Termux repository
+Suite: SysO-Termux
+Date: Fri, 04 Jun 2021 01:29:59 UTC
+MD5Sum:
+ 97d7562dc716fe5237d4998895d7604c 1893 stable/binary-all/Packages
+ fc7adba798797559165d41f5d615b563 1084 stable/binary-all/Packages.xz
+ 2c28ed5dc1d726811323f66090fb24d8 28218 stable/Contents-all
+ 5ce399391596df43d4a066e50047835b 2780 stable/Contents-all.xz
+SHA1:
+ b544232aa021f2cd4ba7fc702d1a2fe405b1e072 1893 stable/binary-all/Packages
+ 857e93f701c3ac98664f9ff8472bd44879856128 1084 stable/binary-all/Packages.xz
+ 2174ca393d32c0dd48ee13254ff7f93dc6be0962 28218 stable/Contents-all
+ 772bd30a78db2e6f5c0e9e713160c6b9c7c25593 2780 stable/Contents-all.xz
+SHA256:
+ b03441a0faa8652b6a2e1ceb5d33098cb60316acf2d0fbd8ef48ab519b5b74d0 1893 stable/binary-all/Packages
+ 6d561cd188238fac71ad153f823869d02e89ca71faeaf012338f24b810ae8802 1084 stable/binary-all/Packages.xz
+ 3dfd6045cc922fbbff424c2ba6a82a71f2368fc668d17cce6629ea51c3bd15e9 28218 stable/Contents-all
+ b7093e1d6a21984cdb49e4d585a61f5e4ccd6078282fc2c2522164183dffa7b5 2780 stable/Contents-all.xz
+SHA512:
+ d33ae5693d5ba7c2f984eda25bca7cce328595f9d135c4d57f1d73136191f0f8c16d47ac0ec367ba88cbd45f8115e8d1a3c926d8eee2337ff54c5eb59e185111 1893 stable/binary-all/Packages
+ 07318fb2285b5471badef97641818dfce3ad264aba65550cfb290f0220c8c2c8936771c00ae7ae8a3a4ef3550ee5b3be63e62c6016d9f03106e43c3698ed7c26 1084 stable/binary-all/Packages.xz
+ 3644a9f0bd074fc1807cca3d268ff19d170b782e70cb43f1d103743e41940d7a54934e52e9cfd7e766b297a15fa5ad947af7a8f2d31cb731b2e285d609605bf3 28218 stable/Contents-all
+ d161524900ee98b613e3a6dfb4f26d1cf2597a6a3b2f52cbf32d54a06d4aef3d9b67d5941a5b130b081ab676a6d6a721e74839685b50f7c9045578793bc9edf3 2780 stable/Contents-all.xz
