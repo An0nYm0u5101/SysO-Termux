@@ -7,7 +7,7 @@ Este es un fork de [Darkmux](https://github.com/Darkmux/SysO-Termux)
 el cual instala un repositorio con herramientas de
 piratería en termux
 
-![foto1](./fotos/Screenshot_20210603-211320.png) 
+![foto1](./fotos/Screenshot_20210603-211355.png) 
 
 ![foto2](./fotos/Screenshot_20210603-211335.png) 
 
