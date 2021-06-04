@@ -32,3 +32,6 @@ ser añadida, haga [clik aquí](https://github.com/Yisus7u7/SysO-Termux/issues)
 y haga una solicitud de paquete, también puede reportar 
 bugs ahí
 
+
+
+No olvides dejar tu 🌟 y compartir con tus amigos 
