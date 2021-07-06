@@ -3,6 +3,15 @@ It is a fork of SysO-Termux with improvements and a repository with tools
 
 ### ¿Qué es SysO-Termux?
 
+# ¡Alerta! 
+
+Este proyecto a sido cancelado y se a movido a:
+
+https://pkgs-termux.github.io/pkgs.org
+
+
+
+
 Este es un fork de [Darkmux](https://github.com/Darkmux/SysO-Termux)
 el cual instala un repositorio con herramientas de
 piratería en termux
